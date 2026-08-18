@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "sky Bot",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "skyhaven_smp.aternos.me",
+    "port": 26314,
     "version": "",
     "try-creative": false
   },
